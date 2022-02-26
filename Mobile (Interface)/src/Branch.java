@@ -2,7 +2,7 @@
 public class Branch{
 	
 	private int length;
-	private Structure structure; //why is structure a type of object?
+	private Structure structure;
 	
 	public Branch(int l, Structure s) {
 		length = l;
